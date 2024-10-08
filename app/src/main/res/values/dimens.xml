@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_text_size">36sp</dimen>
+    <dimen name="corner">10dp</dimen>
+    <dimen name="button_width">75dp</dimen>
+    <dimen name="button_height">60dp</dimen>
+    <dimen name="button_margin">12dp</dimen>
+    <dimen name="button_min_text_size">12dp</dimen>
+    <dimen name="button_textsize_step_granularity">2sp</dimen>
+</resources>
